@@ -1,0 +1,6 @@
+n = int(input('digite um número: '))
+print('Esse número, é inteiro?'1)
+print(type(n))
+print('Contém números e letras?', str(n).isalnum())
+print('Contém letras maiúsculas?', str(n).isupper())
+print('Tem letras e números?', str(n).isalnum())

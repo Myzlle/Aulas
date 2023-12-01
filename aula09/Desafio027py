@@ -1,0 +1,19 @@
+'''nome = str(input('Digite o seu nome completo: ')).strip()
+pnome = nome.split()
+print('Muito prazer em te conhecer!:')
+print('Seu primeiro nome é: {}'.format(pnome[0]))
+print('Seu último nome é: {}'.format(pnome[-1]))'''
+
+n = str(input('Digite o seu nome:' )).strip()
+nome = n.split()
+nome2 =nome [-1]
+print('Muito prazer em te conhecer!  ')
+print('Seu primerio nome é: {}'.format(nome[0]))
+print('Seu útlimo nome é: {}'.format(nome2))
+
+'''n = str(input('Digite seu nome completo:')).strip()
+nome = n.split()
+print('Muito prazer em te conhecer! ')
+print('Seu primeiro nome é {}'.format(nome[0]))
+print('Seu última nome é {}'.format(nome[len(nome)-1]))''''''
+#jeito do professor

@@ -1,0 +1,34 @@
+#n1 = int(input('Digite um número e vamos multiplicar x10 '))
+#x1= n1*1
+#x2= n1*2 
+#x3= n1*3
+#x4= n1*4 
+#x5= n1*5 
+#x6= n1*6 
+#7= n1*7 
+#x8= n1*8 
+#x9= n1*9 
+#x10= n1*10 #
+#print('O resultado de: {}, é {} {} {} {} {} {} {} {} {} {}'.format(n1, x1, x2, x3, x4, x5, x6, x7, x8 , x9, x10))
+
+n1 = int(input('Digite um número e vamos multiplicar: '))
+x1= n1*1
+x2= n1*2 
+x3= n1*3
+x4= n1*4 
+x5= n1*5 
+x6= n1*6 
+x7= n1*7 
+x8= n1*8 
+x9= n1*9 
+x10= n1*10 
+print('O Número Multiplicado de: {}, x 01 ={} '.format(n1, x1))           
+print('O Número Multiplicado de: {}, x 02 ={} '.format(n1, x2))
+print('O Número Multiplicado de: {}, x 03 ={} '.format(n1, x3)) 
+print('O Número Multiplicado de: {}, x 04 ={} '.format(n1, x4)) 
+print('O Número Multiplicado de: {}, x 05 ={} '.format(n1, x5)) 
+print('O Número Multiplicado de: {}, x 06 ={} '.format(n1, x6))           
+print('O Número Multiplicado de: {}, x 07 ={} '.format(n1, x7))
+print('O Número Multiplicado de: {}, x 08 ={} '.format(n1, x8)) 
+print('O Número Multiplicado de: {}, x 09 ={} '.format(n1, x9)) 
+print('O Número Multiplicado de: {}, x 10 ={} '.format(n1, x10))

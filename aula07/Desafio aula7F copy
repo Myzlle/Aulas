@@ -1,0 +1,8 @@
+n1 = float(input('Quanto dinheiro tem na sua carteira: '))
+dol = n1 / 4.90
+print('Você tem R${} e pode comprar aproximadamente ${:.2f} dólares.'.format(n1, dol))
+#Exemplos
+
+n1 = int(input(' Quaando dinheiro tem na sua carteira?: '))
+dol = n1 / 4.90
+print('Você tem R$: {} e pode comprar aproximadamente ${:.3f} dólares'.format(n1, dol))
